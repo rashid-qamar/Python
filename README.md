@@ -1,7 +1,7 @@
 #Overview my experiments codes
 
 ## Code 1. Demonstrate String
-## Code 1. Demonstrate List
-## Code 1. Demonstrate Tuples
-## Code 1. Demonstrate Dictionary
-## Code 1. Demonstrate Operators
+## Code 2. Demonstrate List
+## Code 3. Demonstrate Tuples
+## Code 4. Demonstrate Dictionary
+## Code 5. Demonstrate Operators
