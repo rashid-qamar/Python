@@ -1,8 +1,8 @@
 list = ['MANUU' , 3366 , 9.12, 'Rashid', 'Qamar']
-tinylist = [39, 'Aehsan']
+tinylist = [35, 'Mamun']
 
 print (list)
-print (list[3])
+print ("Name - " + list[3])
 print (list[3:4])
 print (list[1:])
 print (tinylist * 2)
