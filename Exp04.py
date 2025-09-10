@@ -1,3 +1,4 @@
+## Code 4. Demonstrate Dictionary
 dict = { } 
 dict['First'] = "First Element"
 dict[10] = "10th Element"

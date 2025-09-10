@@ -1,3 +1,4 @@
+## Code 1. Demonstrate String
 str = 'Hello Rashid '
 
 print (str)

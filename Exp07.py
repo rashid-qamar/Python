@@ -1,3 +1,4 @@
+## Code 7. Demonstrate Assigment Operators
 a = int(input("Enter first number(A): "))
 b = int(input("Enter second number(B): "))
 

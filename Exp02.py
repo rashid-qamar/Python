@@ -1,3 +1,4 @@
+## Code 2. Demonstrate List
 list = ['MANUU' , 3366 , 9.12, 'Rashid', 'Qamar']
 tinylist = [35, 'Mamun']
 

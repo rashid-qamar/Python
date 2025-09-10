@@ -1,3 +1,4 @@
+## Code 6. Demonstrate Comparison Operation
 a = int(input("Enter first number (A): "))
 b = int(input("Enter second number (B): "))
 

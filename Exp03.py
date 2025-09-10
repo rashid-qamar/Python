@@ -1,3 +1,4 @@
+## Code 3. Demonstrate Tuples
 tuple = ('Rashid', 38, 'Qamar', 3366, 7.00)
 tinyTuple = (63, 'Imran')
 
