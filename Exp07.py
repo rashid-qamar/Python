@@ -1,15 +1,15 @@
-## Code 7. Demonstrate Assigment Operators
+# Code 7. Demonstrate Assigment Operators
 a = int(input("Enter first number(A): "))
 b = int(input("Enter second number(B): "))
 
-add = a+b;
+add = a+b
 print ("Addition: ", add)
 
-sub = a-b;
+sub = a-b
 print ("Subtract: ", sub)
 
-mul = a*b;
+mul = a*b
 print ("Multiplication: ", mul)
 
-div = a/b;
+div = a/b
 print ("Division: ", div)
