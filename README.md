@@ -28,3 +28,16 @@
 ## Code 27. Demonstrate pass
 ## Code 28. Demonstrate function
 ## Code 29. Demonstrate pass by reference
+## Code 30. Demonstrate Pass by refrence
+## Code 31. 
+
+## Code 33. Demonstrate order of parameters does not matter.
+
+## Code 41. Demonstrate Re-nameing a module
+
+## Code 44. Demonstrate fibonacci series using module
+## Code 45. Ddemonstrate  Regular expression search function
+## Code 46. Demonstrate  Regular expression findall search function
+## Code 47. Ddemonstrate Search for the first white space character in the string using Regular expression.
+## Code 48. Demonstrate split() at each white-space character
+## Code 52. Demonstrate readline() with different method
