@@ -15,7 +15,7 @@ if(a < b):
     print  ("A is less than B.")
 
 if(a >= b):
-    print ("A is either gereater than or equal to B.")
+    print ("A is either gereater than or equal to B")
 
 if(a <= b):
     print ("A is either less than or equal to B.")

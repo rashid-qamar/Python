@@ -5,4 +5,6 @@ f.close()
 
 #for open & Reading
 f = open("demofile.txt", "r")
-print(f.read())
+for x in f:
+    print(x)
+print()

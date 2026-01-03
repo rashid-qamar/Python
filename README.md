@@ -33,11 +33,16 @@
 
 ## Code 33. Demonstrate order of parameters does not matter.
 
-## Code 41. Demonstrate Re-nameing a module
+## Code 41. Demonstrate Re-nameing a module.
 
-## Code 44. Demonstrate fibonacci series using module
-## Code 45. Ddemonstrate  Regular expression search function
-## Code 46. Demonstrate  Regular expression findall search function
+## Code 44. Demonstrate fibonacci series using module.
+## Code 45. Ddemonstrate  Regular expression search function.
+## Code 46. Demonstrate  Regular expression findall search function.
 ## Code 47. Ddemonstrate Search for the first white space character in the string using Regular expression.
-## Code 48. Demonstrate split() at each white-space character
-## Code 52. Demonstrate readline() with different method
+## Code 48. Demonstrate split() at each white-space character.
+## Code 52. Demonstrate readline() with different method.
+## Code 54. Demonstrate Write file with appending the content to file.
+## Code 57. Demonstrate Exception Handling.
+## Code 59. Demonstrate else in Exception Handling.
+## Code 60. Demonstrate final in Exception Handling
+## Code 62. Demonstrate raise in Exception Handling
