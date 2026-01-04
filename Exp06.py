@@ -21,4 +21,4 @@ if(a <= b):
     print ("A is either less than or equal to B.")
 
 else :
-    print ("Invalid input")
+    print ("Invalid user input")
